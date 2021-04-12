@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757609652816",
+    "project_id": "flutter-loja-virtual-d82d7",
+    "storage_bucket": "flutter-loja-virtual-d82d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757609652816:android:6ec56c5be569e9677c6755",
+        "android_client_info": {
+          "package_name": "br.estevam.com.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757609652816-0jmpur9gmud83je4emk2v020hg3501cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAln6oTiE8o-aR3ZA-9HcZh0YmgrRmGX94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757609652816-0jmpur9gmud83je4emk2v020hg3501cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
